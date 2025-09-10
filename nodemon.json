@@ -1,0 +1,6 @@
+{
+  "watch": ["."],
+  "ignore": ["node_modules/", "package-lock.json"],
+  "ext": "js,json",
+  "exec": "node --experimental-modules server.js"
+}
